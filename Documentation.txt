@@ -1,1 +1,0 @@
-1) Class are hashed so we have to use aria-label
